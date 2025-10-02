@@ -1,0 +1,16 @@
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual docs
+.virtual_documents/
+
+# Anaconda project settings
+anaconda_projects/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS junk
+.DS_Store
+Thumbs.db
